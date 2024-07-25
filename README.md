@@ -1,5 +1,8 @@
 <h1 style="color: #FDC29E;">YouTube Playlist Length Calculator</h1>
-
+<ul>
+  <li style="font-size: 16px; color: #333;"><strong>Website:</strong> <a href="https://youtubeplaylistlength.com" style="color: #FDC29E; font-weight: bold;">https://youtubeplaylistlength.com</a></li>
+  <li style="font-size: 16px; color: #333;"><strong>GitHub Repository:</strong> <a href="https://github.com/RoronoaZoro04/Youtube-Playlist-Length-Calculator" style="color: #FDC29E; font-weight: bold;">https://github.com/RoronoaZoro04/Youtube-Playlist-Length-Calculator</a></li>
+</ul>
 <img src="https://youtubeplaylistlength.com/wp-content/uploads/elementor/thumbs/3-2-qqijeb618gm9844bos6zugsqf655jz7ospt17lf55c.png" alt="YouTube Playlist Length Calculator" style="max-width: 100%; height: auto;">
 
 <p style="font-size: 24px; font-weight: bold; color: #F9E5DA; margin-top: 20px;">Overview</p>
@@ -62,7 +65,4 @@
 <img src="https://youtubeplaylistlength.com/wp-content/uploads/elementor/thumbs/2-2-qqijdtb3mlxt3iu9l2h313az4ul6hq8se9et3c5mfk.png" alt="Contact" style="max-width: 100%; height: auto;">
 
 <p style="font-size: 24px; font-weight: bold; color: #F9E5DA; margin-top: 20px;">Links</p>
-<ul>
-  <li style="font-size: 16px; color: #333;"><strong>Website:</strong> <a href="https://youtubeplaylistlength.com" style="color: #FDC29E; font-weight: bold;">https://youtubeplaylistlength.com</a></li>
-  <li style="font-size: 16px; color: #333;"><strong>GitHub Repository:</strong> <a href="https://github.com/RoronoaZoro04/Youtube-Playlist-Length-Calculator" style="color: #FDC29E; font-weight: bold;">https://github.com/RoronoaZoro04/Youtube-Playlist-Length-Calculator</a></li>
-</ul>
+
